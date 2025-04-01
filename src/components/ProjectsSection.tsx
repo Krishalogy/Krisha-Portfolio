@@ -35,7 +35,7 @@ const projects: Project[] = [
     description: "It’s a personal space online where you can show off your best work, skills, and experience—whether you’re a designer, developer, writer, or any kind of creative. It helps potential clients or employers see what you’re all about and makes it easy for them to connect with you.​",
     image: "https://scontent.fmnl4-2.fna.fbcdn.net/v/t1.15752-9/487142955_669669258939126_5450119393918574070_n.png?stp=dst-png_p526x395&_nc_cat=107&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeHSgAobhN3q2oM63vXBC4DuoRcVa8aUFvOhFxVrxpQW8yzuh3_qNz9s-IoSFend92LJCvbZdCdJsXOs8Khcbjqz&_nc_ohc=FHVnX87X30EQ7kNvgF4eA4Z&_nc_oc=Adm58sIk_2Mn--8JUN4paKvHdj4ZOiFV2pwLlsBUquY1oVeP-Ops2lOPy77APIM2IOQ&_nc_zt=23&_nc_ht=scontent.fmnl4-2.fna&oh=03_Q7cD1wEDkWo6Ocu45M0ZyxHsuWtEmdq08LPmyXQ8blfl8tCxhA&oe=6812C30A",
     tags: ["React.js", "Tailwind CSS"],
-    githubLink: "#",
+    githubLink: "https://github.com/Krishalogy/Krisha-Portfolio",
  
   },
 ];
